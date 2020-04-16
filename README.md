@@ -1,0 +1,1 @@
+Le projet du jour est d'utiliser la gem Nokogiri, bon courage !
